@@ -1,5 +1,5 @@
 #write your code here
 
 def countdown(x)
-  while 
+  while x > 0 
 end
