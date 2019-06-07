@@ -10,4 +10,4 @@ return "HAPPY NEW YEAR!"
 end
 
 def countdown_with_sleep(x)
-  while 
+  while x > 0 
